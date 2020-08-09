@@ -1,4 +1,4 @@
-# landing_page
+# Landing Page using CSS GRID
 
 You can visit the landing page responsive made by me here:
 
